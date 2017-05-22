@@ -124,7 +124,7 @@ def individual(minimum,maximum):
 def population(count,minimum,maximum):
     return [individual(minimum,maximum) for x in xrange(count) ]
 
-##### shape individuals into a testable ones
+##### shape individuals into testable ones
 def merge(individual):
     row,col=0,0
     cobaye=clean_input()
