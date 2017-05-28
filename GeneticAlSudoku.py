@@ -4,6 +4,7 @@
 The input grid can be included directly in the script.
 It will be taken care of shortly
 Written the 20th May 2017
+@author: Tarek Samaali
 """
 
 ############## Libraries to import ########
